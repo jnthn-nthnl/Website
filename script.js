@@ -1,5 +1,5 @@
 function showAlert() {
-    alert("Thank you for visiting Jonathan's Creative Space!");
+    alert("Cool");
 }
 
 // Example of a simple animation effect

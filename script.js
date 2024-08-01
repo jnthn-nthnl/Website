@@ -1,5 +1,5 @@
 function showAlert() {
-    alert("Thank you for visiting [Your Name]'s Creative Space!");
+    alert("Thank you for visiting Jonathan's Creative Space!");
 }
 
 // Example of a simple animation effect
